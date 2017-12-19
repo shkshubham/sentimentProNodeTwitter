@@ -1,0 +1,23 @@
+{
+  "name": "sentimentpro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shkshubham/sentimentProNodeTwitter.git"
+  },
+  "author": "Shubham Shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shkshubham/sentimentProNodeTwitter/issues"
+  },
+  "homepage": "https://github.com/shkshubham/sentimentProNodeTwitter#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "sentiment": "^4.1.0"
+  }
+}
